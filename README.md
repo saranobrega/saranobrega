@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there, I'm Sara Nóbrega 👋
 
-<!--
-**saranobrega/saranobrega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Physics graduate who also studied Machine Learning and Data Science and who is interested in applying these tools to Astrophysics and Cosmology, Climate Protection, Business and Education. 
+I have a keen interest in computer vision, deep learning, neural networks and natural language processing. 
 
-Here are some ideas to get you started:
+Outside of work, I enjoy...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Reading about Science, Astrophysics and Cosmology
+
+ 💬 Colaborating with local organizations and volunteering
+ 
+:rocket: Travelling and Connecting to People
+
+## 📬Connect with Me📬
+
+[LinkedIn](https://www.linkedin.com/in/saranfn/)
