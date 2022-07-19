@@ -5,11 +5,13 @@ I have a keen interest in computer vision, deep learning, neural networks and na
 
 Outside of work, I enjoy...
 
+:rocket: Travelling and Connecting to People
+
 🔭 Reading about Science, Astrophysics and Cosmology
 
  💬 Colaborating with local organizations and volunteering
  
-:rocket: Travelling and Connecting to People
+
 
 ## 📬Connect with Me📬
 
