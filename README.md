@@ -6,11 +6,11 @@ I have a keen interest in computer vision, deep learning and natural language pr
 Here you can find my main Data Science/Machine Learning Projects, mainly:
 
 
-- AI for Damage Inspection Project (Computer Vision)
+- [AI for Damage Inspection Project (Computer Vision)](https://github.com/saranobrega/AI-for-Damage-Inspection-Project-)
 
-- E-mail Text Classification Project (NLP)
+- [E-mail Text Classification Project (NLP)](https://github.com/saranobrega/E-mail-Text-Classification-Project-)
 
-- Pet Adoption Prediction Project (MSc Project)
+- [Pet Adoption Prediction Project (MSc Project)](https://github.com/saranobrega/Pet-Adoption-Prediction-Project-)
 
 - Document Processing Project (Computer Vision) 
 
