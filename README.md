@@ -18,6 +18,8 @@ Here you can find my main Data Science/Machine Learning Projects, mainly:
 
 - Anomaly detection Project (Deep Learning, Random Forests)
 
+- [Artificial Intelligence Bootcamp](https://github.com/saranobrega/AI-Bootcamp)
+
 
 
 
