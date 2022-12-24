@@ -12,7 +12,7 @@ Here you can find my main Data Science/Machine Learning Projects, mainly:
 
 - [Pet Adoption Prediction Project (MSc Project)](https://github.com/saranobrega/Pet-Adoption-Prediction-Project-)
 
-- Document Processing Project (Computer Vision) 
+- [Document Processing Project (Computer Vision)](https://github.com/saranobrega/Document-Processing-Project-)
 
 - Watermark Implementation Project (Deep Learning)
 
