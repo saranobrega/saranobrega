@@ -1,7 +1,27 @@
 ## Hi there, I'm Sara Nóbrega 👋
 
 I'm a Physics graduate who also studied Machine Learning and Data Science and who is interested in applying these tools to Astrophysics and Cosmology, Climate Protection, Business and Education. 
-I have a keen interest in computer vision, deep learning, neural networks and natural language processing. 
+I have a keen interest in computer vision, deep learning and natural language processing. 
+
+Here you can find my main Data Science/Machine Learning Projects, mainly:
+
+
+- AI for Damage Inspection Project (Computer Vision)
+
+- E-mail Text Classification Project (NLP)
+
+- Pet Adoption Prediction Project (MSc Project)
+
+- Document Processing Project (Computer Vision) 
+
+- Watermark Implementation Project (Deep Learning)
+
+- Anomaly detection Project (Deep Learning, Random Forests)
+
+
+
+
+
 
 Outside of work, I enjoy...
 
