@@ -14,9 +14,9 @@ Here you can find my main Data Science/Machine Learning Projects, mainly:
 
 - [Document Understanding Project (Computer Vision)](https://github.com/saranobrega/Document-Processing-Project-)
 
-- Watermark Implementation Project (Deep Learning)
+- Watermark Implementation Project (Deep Learning) (coming soon)
 
-- Anomaly detection Project (Deep Learning, Random Forests)
+- Anomaly detection Project (Deep Learning, Random Forests) (coming soon)
 
 - [Artificial Intelligence Bootcamp](https://github.com/saranobrega/AI-Bootcamp)
 
