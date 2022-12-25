@@ -21,6 +21,7 @@ Here you can find my main Data Science/Machine Learning Projects, mainly:
 - [Artificial Intelligence Bootcamp](https://github.com/saranobrega/AI-Bootcamp)
 
 
+- - - 
 
 🌱 I’m currently performing an Artificial Intelligence Internship focused on Computer Vision, Deep Learning and NLP.
 
@@ -29,10 +30,10 @@ Here you can find my main Data Science/Machine Learning Projects, mainly:
 📫 How to reach me: Email - saranobregafn@gmail.com
 
 
+- - - 
 
 
-
-### Outside of work, I enjoy...
+## Outside of work, I enjoy...
 
 :rocket: Travelling and connecting to People
 
@@ -42,9 +43,9 @@ Here you can find my main Data Science/Machine Learning Projects, mainly:
  
 
 
-## 📬Connect with Me📬
+## Connect with Me
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/saranfn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranfn" height="30" width="40" /></a>
 </p>
