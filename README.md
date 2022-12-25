@@ -22,14 +22,21 @@ Here you can find my main Data Science/Machine Learning Projects, mainly:
 
 
 
+🌱 I’m currently performing an Artificial Intelligence Internship focused on Computer Vision, Deep Learning and NLP.
+
+🔭 I’m currently also working on my SQL skills.
+
+📫 How to reach me: Email - saranobregafn@gmail.com
 
 
 
-Outside of work, I enjoy...
 
-:rocket: Travelling and Connecting to People
 
-🔭 Reading about Science, Astrophysics and Cosmology
+### Outside of work, I enjoy...
+
+:rocket: Travelling and connecting to People
+
+🔭 Reading about science, astrophysics and cosmology
 
  💬 Colaborating with local organizations and volunteering
  
