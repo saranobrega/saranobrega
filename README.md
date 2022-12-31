@@ -25,7 +25,9 @@ Here you can find my main Data Science/Machine Learning Projects, mainly:
 
 🌱 I’m currently performing an Artificial Intelligence Internship focused on Computer Vision, Deep Learning and NLP.
 
-🔭 I’m currently also working on my SQL skills.
+🔭 I’m currently taking a [course on MLOps](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
+
+
 
 📫 How to reach me: Email - saranobregafn@gmail.com
 
