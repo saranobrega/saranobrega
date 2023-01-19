@@ -16,7 +16,7 @@ Here you can find my main Data Science/Machine Learning Projects, mainly:
 
 - Watermark Implementation Project (Deep Learning) (coming soon)
 
-- Anomaly detection Project (Deep Learning, Random Forests) (coming soon)
+- Anomaly detection Project (Deep Learning, Isolation Forests) (coming soon)
 
 - [Artificial Intelligence Bootcamp](https://github.com/saranobrega/AI-Bootcamp)
 
