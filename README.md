@@ -6,19 +6,19 @@ I have a keen interest in computer vision, deep learning and natural language pr
 Here you can find my main Data Science/Machine Learning Projects, mainly:
 
 
-- [AI for Damage Inspection Project (Computer Vision)](https://github.com/saranobrega/AI-for-Damage-Inspection-Project-)
+- [AI for Damage Inspection Project (Computer Vision, 2022)](https://github.com/saranobrega/AI-for-Damage-Inspection-Project-)
 
-- [E-mail Text Classification Project (NLP)](https://github.com/saranobrega/E-mail-Text-Classification-Project-)
+- [E-mail Text Classification Project (NLP, 2022)](https://github.com/saranobrega/E-mail-Text-Classification-Project-)
 
-- [Pet Adoption Prediction Project (MSc Project)](https://github.com/saranobrega/Pet-Adoption-Prediction-Project-)
+- [Pet Adoption Prediction Project (MSc Project, 2019)](https://github.com/saranobrega/Pet-Adoption-Prediction-Project-)
 
-- [Document Understanding Project (Computer Vision)](https://github.com/saranobrega/Document-Processing-Project-)
+- [Document Understanding Project (Computer Vision, 2022/23)](https://github.com/saranobrega/Document-Processing-Project-)
 
 - Watermark Implementation Project (Deep Learning) (coming soon)
 
 - Anomaly detection Project (Deep Learning, Isolation Forests) (coming soon)
 
-- [Artificial Intelligence Bootcamp](https://github.com/saranobrega/AI-Bootcamp)
+- [Artificial Intelligence Bootcamp] (2020) (https://github.com/saranobrega/AI-Bootcamp)
 
 
 - - - 
