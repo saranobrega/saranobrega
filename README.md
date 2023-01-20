@@ -3,7 +3,9 @@
 I'm a Physics graduate who also studied Machine Learning and Data Science and who is interested in applying these tools to Astrophysics and Cosmology, Climate Protection, Business and Education. 
 I have a keen interest in computer vision, deep learning and natural language processing. 
 
-Here you can find my main Data Science/Machine Learning Projects, mainly:
+### Check my portfolio [here](https://saranobrega.github.io/Portfolio/)!
+
+Here you can find the code to my main Data Science/Machine Learning Projects, mainly:
 
 
 - [AI for Damage Inspection Project (Computer Vision, 2022)](https://github.com/saranobrega/AI-for-Damage-Inspection-Project-)
@@ -16,7 +18,7 @@ Here you can find my main Data Science/Machine Learning Projects, mainly:
 
 - Watermark Implementation Project (Deep Learning, 2022) (coming soon)
 
-- [Artificial Intelligence Bootcamp] (2020) (https://github.com/saranobrega/AI-Bootcamp)
+- [Artificial Intelligence Bootcamp (2020)](https://github.com/saranobrega/AI-Bootcamp)
 
 -  [Pet Adoption Prediction Project (MSc Project, 2019)](https://github.com/saranobrega/Pet-Adoption-Prediction-Project-)
 
