@@ -10,15 +10,15 @@ Here you can find my main Data Science/Machine Learning Projects, mainly:
 
 - [E-mail Text Classification Project (NLP, 2022)](https://github.com/saranobrega/E-mail-Text-Classification-Project-)
 
-- [Pet Adoption Prediction Project (MSc Project, 2019)](https://github.com/saranobrega/Pet-Adoption-Prediction-Project-)
+- [Anomaly detection Project (NN, Isolation Forests, 2022)](https://github.com/saranobrega/Anomaly-detection-Project)
 
 - [Document Understanding Project (Computer Vision, 2022/23)](https://github.com/saranobrega/Document-Processing-Project-)
 
 - Watermark Implementation Project (Deep Learning, 2022) (coming soon)
 
-- Anomaly detection Project (Deep Learning, Isolation Forests, 2022) (coming soon)
-
 - [Artificial Intelligence Bootcamp] (2020) (https://github.com/saranobrega/AI-Bootcamp)
+
+-  [Pet Adoption Prediction Project (MSc Project, 2019)](https://github.com/saranobrega/Pet-Adoption-Prediction-Project-)
 
 
 - - - 
