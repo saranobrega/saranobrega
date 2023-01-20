@@ -7,12 +7,11 @@ I have a keen interest in computer vision, deep learning and natural language pr
 
 Here you can find the code to my main Data Science/Machine Learning Projects, mainly:
 
+- [Anomaly detection Project (NN, Isolation Forests, 2022)](https://github.com/saranobrega/Anomaly-detection-Project)
 
 - [AI for Damage Inspection Project (Computer Vision, 2022)](https://github.com/saranobrega/AI-for-Damage-Inspection-Project-)
 
 - [E-mail Text Classification Project (NLP, 2022)](https://github.com/saranobrega/E-mail-Text-Classification-Project-)
-
-- [Anomaly detection Project (NN, Isolation Forests, 2022)](https://github.com/saranobrega/Anomaly-detection-Project)
 
 - [Document Understanding Project (Computer Vision, 2022/23)](https://github.com/saranobrega/Document-Processing-Project-)
 
