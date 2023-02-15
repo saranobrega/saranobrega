@@ -1,11 +1,10 @@
 ## Hi there, I'm Sara Nóbrega 👋
 
-I'm a Physics graduate who also studied Machine Learning and Data Science and who is interested in applying these tools to Astrophysics and Cosmology, Climate Protection, Business and Education. 
-I have a keen interest in computer vision, deep learning and natural language processing. 
+I'm a Physics master's graduate who also studied Machine Learning and Data Science and who is interested in applying these tools to Astrophysics and Cosmology, Climate Protection, Business and Education.  
 
 ### Check my portfolio [here](https://saranobrega.github.io/Portfolio/)!
 
-Here you can find the code to my main Data Science/Machine Learning Projects, mainly:
+Here you can find the code to some of my Data Science/Machine Learning Projects:
 
 - [Anomaly detection Project (NN, Isolation Forests, 2022)](https://github.com/saranobrega/Anomaly-detection-Project)
 
@@ -15,10 +14,6 @@ Here you can find the code to my main Data Science/Machine Learning Projects, ma
 
 - [Document Understanding Project (Computer Vision, 2022/23)](https://github.com/saranobrega/Document-Processing-Project-)
 
-- Watermark Implementation Project (Deep Learning, 2022) (coming soon)
-
-- [Artificial Intelligence Bootcamp (2020)](https://github.com/saranobrega/AI-Bootcamp)
-
 -  [Pet Adoption Prediction Project (MSc Project, 2019)](https://github.com/saranobrega/Pet-Adoption-Prediction-Project-)
 
 
@@ -26,15 +21,12 @@ Here you can find the code to my main Data Science/Machine Learning Projects, ma
 
 🌱 I’m currently performing an Artificial Intelligence Internship focused on Computer Vision, Deep Learning and NLP.
 
-🔭 I’m currently taking a [course on MLOps](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
-
-
+🔭 I’m currently learning MLOps and Azure
 
 📫 How to reach me: Email - saranobregafn@gmail.com
 
 
 - - - 
-
 
 ## Outside of work, I enjoy...
 
