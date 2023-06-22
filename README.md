@@ -6,13 +6,13 @@ I'm a Physics master's graduate who also studied Machine Learning and Data Scien
 
 Here you can find the code to some of my Data Science/Machine Learning Projects:
 
+- [Document Understanding Project (Computer Vision, 2022/23)](https://github.com/saranobrega/Document-Processing-Project-)
+  
 - [Anomaly detection Project (NN, Isolation Forests, 2022)](https://github.com/saranobrega/Anomaly-detection-Project)
 
 - [AI for Damage Inspection Project (Computer Vision, 2022)](https://github.com/saranobrega/AI-for-Damage-Inspection-Project-)
 
 - [E-mail Text Classification Project (NLP, 2022)](https://github.com/saranobrega/E-mail-Text-Classification-Project-)
-
-- [Document Understanding Project (Computer Vision, 2022/23)](https://github.com/saranobrega/Document-Processing-Project-)
 
 -  [Pet Adoption Prediction Project (MSc Project, 2019)](https://github.com/saranobrega/Pet-Adoption-Prediction-Project-)
 
