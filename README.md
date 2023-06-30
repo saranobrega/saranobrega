@@ -21,9 +21,7 @@ Here you can find the code to some of my Data Science/Machine Learning Projects:
 
 - - - 
 
-🌱 I’m currently performing an Artificial Intelligence Internship focused on Computer Vision, Deep Learning and NLP.
-
-🔭 I’m currently learning MLOps and Azure
+🔭 I’m currently learning about MLOps and Azure, generating synthetic data and working with forecasting models with time-series data 🔮
 
 📫 How to reach me: Email - saranobregafn@gmail.com
 
