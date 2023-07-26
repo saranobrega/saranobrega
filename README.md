@@ -1,8 +1,11 @@
 ## Hi there, I'm Sara Nóbrega 👋
 
-I'm a Data Scientist with background in Physics and Astrophysics :rocket:. I enjoy applying machine learning and data science tools to Astrophysics and Cosmology, Climate Protection, Business and Education.  
+I'm a Data Scientist with a background in Physics and Astrophysics :rocket:. I enjoy applying machine learning and data science tools to Astrophysics and Cosmology, Climate Protection, Business and Education.  
 
-Right now, I am working as a Data Scientist at EDP, where I am working on projects related to Renewable Energy 🌱
+:fire: I am a huge enthusiast about the recent breakthroughs in AI. I enjoy trying new AI tools, reading about the most recent developments :eyes: and leveraging the power of AI for my self-development and career growth :bulb: 
+
+
+Right now, I am working as a Data Scientist at EDP, where I am working on projects related to Renewable Energy 🌱 
 
 ### Check my portfolio [here](https://saranobrega.github.io/Portfolio/)!
 
