@@ -6,7 +6,9 @@ Right now, I am working as a Data Scientist at EDP, where I am working on projec
 
 ### Check my portfolio [here](https://saranobrega.github.io/Portfolio/)!
 
-Here you can find the code to some of my Data Science/Machine Learning Projects:
+Here you can find the code to some of my Data Science/Machine Learning Projects (Work and Internships):
+
+- [Time-Series Forecasting (Currently working on this)](https://github.com/saranobrega/Forecasting_time_series)
 
 - [Document Understanding Project (Computer Vision, 2022/23)](https://github.com/saranobrega/Document-Processing-Project-)
   
