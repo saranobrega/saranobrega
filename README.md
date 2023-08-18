@@ -7,7 +7,7 @@ I'm a Data Scientist with a background in Physics and Astrophysics :rocket:. I e
 
 Right now, I am working as a Data Scientist at EDP, where I am working on projects related to Renewable Energy 🌱 
 
-### Check my portfolio [here](https://saranobrega.github.io/Portfolio/)!
+### Check my portfolio [here](https://saranobrega.github.io/Portfolio/)! (needs update :) )
 
 Here you can find the code to some of my Data Science/Machine Learning Projects (Work and Internships):
 
