@@ -5,7 +5,9 @@ I'm a Data Scientist with a background in Physics and Astrophysics :rocket:. I e
 :fire: I am a huge enthusiast about the recent breakthroughs in AI. I enjoy trying new AI tools, reading about the most recent developments :eyes: and leveraging the power of AI for my self-development and career growth :bulb: 
 
 
-Right now, I am working as a Data Scientist at EDP, where I am working on projects related to Renewable Energy 🌱 
+Right now, I am working as a Data Scientist at EDP, where I am working on projects related to Renewable Energy 🌱
+More specifically, I am working with synthetic data, forecasting, REST API, data spaces and much more!
+
 
 ### Check my portfolio [here](https://saranobrega.github.io/Portfolio/)! (needs update :) )
 
