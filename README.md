@@ -28,7 +28,7 @@ Here you can find the code to some of my Data Science/Machine Learning Projects 
 
 - - - 
 
-🔭 I’m currently learning about MLOps and Azure, generating synthetic data and working with forecasting models with time-series data 🔮
+🔭 I’m currently learning and working with REST API, MLOps and Azure, generating synthetic data and working with forecasting models with time-series data 🔮
 
 📫 How to reach me: Email - saranobregafn@gmail.com
 
