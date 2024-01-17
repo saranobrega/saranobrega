@@ -9,11 +9,15 @@ Right now, I am working as a Data Scientist at EDP, where I am working on projec
 More specifically, I am working with synthetic data, time-series forecasting, REST API, data spaces and much more!
 
 
-### Check my portfolio [here](https://saranobrega.github.io/Portfolio/)! (needs update :) )
+### Check my portfolio 👉 [here!](https://saranobrega.github.io/Portfolio/)  
+### And my blog (under construction) 👉[here!](https://saranobrega.github.io/) 
 
+<br>
 Here you can find the code to some of my Data Science/Machine Learning Projects (Work and Internships):
 
-- [Time-Series Forecasting (Currently working on this)](https://github.com/saranobrega/Forecasting_time_series)
+- [WindTurbine Synthetic Data Generation, 2023/2024 ](https://github.com/saranobrega/PAR_model_synthetic_data) 
+  
+- [Time-Series Forecasting, 2023 ](https://github.com/saranobrega/Forecasting_time_series)
 
 - [Document Understanding Project (Computer Vision, 2022/23)](https://github.com/saranobrega/Document-Processing-Project-)
   
@@ -28,7 +32,7 @@ Here you can find the code to some of my Data Science/Machine Learning Projects 
 
 - - - 
 
-🔭 I’m currently learning and working with REST API, MLOps and Azure, generating synthetic data and working with forecasting models with time-series data 🔮
+🔭 I’m currently working with REST APIs, Azure, generating synthetic data and working with forecasting models with time-series data 🔮
 
 📫 How to reach me: Email - saranobregafn@gmail.com
 
