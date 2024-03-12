@@ -9,7 +9,7 @@ Right now, I am working as a Data Scientist at EDP, where I am working on projec
 More specifically, I am working with synthetic data, time-series forecasting, REST API, data spaces and much more!
 
 
-### Check my portfolio 👉 [here!](https://saranobrega.github.io/Portfolio/)  
+### Check my portfolio 👉 [here!]([https://saranobrega.github.io/Portfolio/](https://datascience-showcase-kox1872.gamma.site/)  
 ### And my blog (under construction) 👉[here!](https://saranobrega.github.io/) 
 
 <br>
