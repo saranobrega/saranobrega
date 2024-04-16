@@ -10,7 +10,7 @@ More specifically, I am working with synthetic data, time-series forecasting, RE
 
 
 ### Check my portfolio 👉 [here!](https://datascience-showcase-kox1872.gamma.site/)  
-### And my blog (under construction) 👉[here!](https://saranobrega.github.io/) 
+### And my blog  👉[here!](https://medium.com/@saranobregafn)
 
 <br>
 Here you can find the code to some of my Data Science/Machine Learning Projects (Work and Internships):
